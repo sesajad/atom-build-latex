@@ -1,6 +1,6 @@
 {
   "name": "build-latex",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Atom Build provider for LaTeX",
   "repository": {
     "type": "git",
