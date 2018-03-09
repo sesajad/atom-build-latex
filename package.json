@@ -4,7 +4,7 @@
   "description": "Atom Build provider for LaTeX",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sskahani/atom-build-latex.git"
+    "url": "git+https://github.com/sesajad/atom-build-latex.git"
   },
   "license": "MIT",
   "keywords": [
