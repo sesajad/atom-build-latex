@@ -1,7 +1,7 @@
 # build-latex
 
 ## requirements
-  * latex (no matters texlive or miktex)
+  * latex (doesn't matter texlive or miktex)
   * [build](https://atom.io/packages/build) package
 
 ## features
